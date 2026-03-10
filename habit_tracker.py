@@ -1,19 +1,5 @@
 """
 Ritual — Advanced Habit Tracker
-New features added:
-  • Reminders / due-time per habit with visual urgency indicator
-  • Pomodoro-style focus timer (any habit)
-  • Habit categories / tags for grouping
-  • Pause / archive habit (skip without breaking streak)
-  • Quick-log past missed days (backfill, up to 3 days)
-  • Daily challenge: random habit suggestion
-  • Export data to CSV
-  • Import / restore from JSON backup
-  • Settings page: user name, week-start day, streak-grace toggle
-  • Streak-grace: one missed day per week doesn't reset streak
-  • Completion sound toggle (system bell)
-  • Search / filter habits
-  • Undo last toggle (per session)
 """
 
 import tkinter as tk
